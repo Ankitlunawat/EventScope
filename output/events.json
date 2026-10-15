@@ -1,0 +1,56 @@
+[
+  {
+    "event": "PyCon Ireland 2026",
+    "start_iso": "2026-10-17T00:00:00+00:00",
+    "start_date": "2026-10-17",
+    "source_timezone": "+0000",
+    "location": "Dublin, Ireland",
+    "event_url": "https://www.python.org/events/python-events/2183/",
+    "source_url": "https://www.python.org/events/python-events/"
+  },
+  {
+    "event": "PyCon Taiwan",
+    "start_iso": "2026-10-17T00:00:00+00:00",
+    "start_date": "2026-10-17",
+    "source_timezone": "+0000",
+    "location": "Taipei City, Taiwan",
+    "event_url": "https://www.python.org/events/python-events/2203/",
+    "source_url": "https://www.python.org/events/python-events/"
+  },
+  {
+    "event": "PyCon Panamá 2026",
+    "start_iso": "2026-10-22T00:00:00+00:00",
+    "start_date": "2026-10-22",
+    "source_timezone": "+0000",
+    "location": "Panama City, Panama",
+    "event_url": "https://www.python.org/events/python-events/2211/",
+    "source_url": "https://www.python.org/events/python-events/"
+  },
+  {
+    "event": "Swiss Python Summit 2026",
+    "start_iso": "2026-10-22T00:00:00+00:00",
+    "start_date": "2026-10-22",
+    "source_timezone": "+0000",
+    "location": "Rapperswil, Switzerland",
+    "event_url": "https://www.python.org/events/python-events/2169/",
+    "source_url": "https://www.python.org/events/python-events/"
+  },
+  {
+    "event": "PyHo 2026",
+    "start_iso": "2026-10-23T00:00:00+00:00",
+    "start_date": "2026-10-23",
+    "source_timezone": "+0000",
+    "location": "Ho, Ghana",
+    "event_url": "https://www.python.org/events/python-events/2154/",
+    "source_url": "https://www.python.org/events/python-events/"
+  },
+  {
+    "event": "PyBeach 2026",
+    "start_iso": "2026-10-24T00:00:00+00:00",
+    "start_date": "2026-10-24",
+    "source_timezone": "+0000",
+    "location": "Santa Monica, California, USA",
+    "event_url": "https://www.python.org/events/python-events/2180/",
+    "source_url": "https://www.python.org/events/python-events/"
+  }
+]
